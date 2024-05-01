@@ -1,1 +1,2 @@
 # Here's every assignment I worked on at school.
+## I divided them by category, some of them are really old so I cleaned up the code but I didn't add or remove lines, you can still tell which ones are the older ones.
